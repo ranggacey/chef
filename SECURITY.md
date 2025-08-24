@@ -294,7 +294,7 @@ const logger = {
 
 ## 📞 Security Contact
 
-For security issues, please email: security@chef-ai.com
+For security issues, please email: ranggadanceyong@mail.com
 
 **DO NOT** create public GitHub issues for security vulnerabilities.
 
@@ -307,5 +307,5 @@ For security issues, please email: security@chef-ai.com
 
 ---
 
-**Last Updated**: December 2024  
-**Next Review**: January 2025 
+**Last Updated**: Agustust 1945  
+**Next Review**: January 2045 
