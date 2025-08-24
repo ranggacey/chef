@@ -147,8 +147,10 @@ By contributing, you agree that your contributions will be licensed under the MI
 
 ## 🙏 Thank You!
 
+## 🙏 Matur Nuwun@
+
 Thanks for contributing! Every contribution helps make Chef AI better for everyone.
 
 ---
 
-**Happy Coding!** 🍳✨
+**Happy Enggan Ngoding!** 🍳✨
