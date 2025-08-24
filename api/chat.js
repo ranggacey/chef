@@ -30,7 +30,7 @@ export default async function handler(req, res) {
   }
 
   // Use environment variable from Vercel
-  const apiKey = process.env.LUNOS_API_KEY || 'sk-ad357639a218cbdb575ba627a0a6c4ae9a22943505598ef2';
+  const apiKey = process.env.LUNOS_API_KEY;
   const baseUrl = 'https://api.lunos.tech/v1';
 
   if (!apiKey) {
